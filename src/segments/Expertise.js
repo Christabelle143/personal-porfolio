@@ -43,7 +43,7 @@ const Expertise = () => {
         <div className={styles.skills1}>
           <SkillSet 
             name="Data analysis" 
-            skills={["Python", "Ruby", "Ruby on Rails"]}
+            skills={[ "Ruby", "Ruby on Rails"]}
             img={data}
           />
         </div>

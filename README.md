@@ -19,23 +19,26 @@ To get a local copy up and running follow these simple example steps.
 - CSS modules
 
 ### Setup
-- run `git clone https://github.com/Elisha-Tetteyfio/my-portfolio1.git` in your terminal.
+- run `git clone git@github.com:Christabelle143/personal-porfolio.git` in your terminal.
 - switch to the project directory
 - run `npm install` to install node dependencies
 - run `npm start`
 - Enjoy 🥂
 
 ### Live demo
-[View project](https://elisha-tetteyfio.github.io/my-portfolio1/)
+[View project]()
 
 
 ## Author
 
-👤 **Elisha Tetteyfio**
 
-- GitHub: [@Elisha-Tetteyfio](https://github.com/Elisha-Tetteyfio)
-- Twitter: [@Elisha](https://twitter.com/Nii_AlYasa)
-- LinkedIn: [Elisha Tetteyfio](www.linkedin.com/in/elisha-tetteyfio)
+👤 **Youta Lactio Christabelle**
+
+- GitHub: [Christabelle143](https://github.com/Christabelle143)
+- Twitter: [@christabelleyo](https://twitter.com/christabelleyo)
+- LinkedIn: [YoutaChristabelle](https://linkedin.com/in/YoutaChristabelle)
+
+
 
 
 ## Design inspiration
@@ -46,7 +49,7 @@ The design used for the portfolio was based on [this design](https://www.behance
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Elisha-Tetteyfio/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/Christabelle143/personal-porfolio/issues).
 
 ## Show your support
 
